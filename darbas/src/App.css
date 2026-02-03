@@ -1,0 +1,17 @@
+.main-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 220px;
+}
+
+.title {
+  text-align: center;
+}
+
+img {
+  width: 150px;
+  height: 225px;
+}

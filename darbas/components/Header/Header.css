@@ -1,0 +1,11 @@
+Header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1 {
+    background-color: lightblue;
+    color: darkblue !important;
+    text-align: center;
+    padding: 10px;
+}
